@@ -1,0 +1,46 @@
+{
+    "model": {
+        "name": "WGWaveNet",
+        "config": {
+            "channels": 64,
+            "num_layers": 4
+        }
+    },
+    "data": {
+        "batch_size": 16,
+        "segment_length": 32768
+    },
+    "optimizer": {
+        "class_name": "Adam",
+        "kwargs": {
+            "learning_rate": 0.0001
+        }
+    },
+    "lr_scheduler": {
+        "class_name": "ExponentialLR",
+        "kwargs": {
+            "gamma": 0.99
+        }
+    },
+    "hardware": {
+        "num_workers": 0,
+        "mixed_precision": true,
+        "accumulation_steps": 1
+    },
+    "loss": {
+        "validation_loss_function": "esr",
+        "mask_first": 2048,
+        "weights": {
+            "mse": {
+                "value": 1.0
+            },
+            "esr": {
+                "value": 0.5
+            }
+        }
+    },
+    "epochs": 100,
+    "min_epochs": 10,
+    "patience": 10,
+    "improvement_threshold": 1e-6
+}

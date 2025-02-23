@@ -1,0 +1,51 @@
+{
+    "model": {
+        "name": "LSTMProfiler",
+        "config": {
+            "lstm_hidden": 18,
+            "num_layers": 3,
+            "train_burn_in": 8192,
+            "train_truncate": null
+        }
+    },
+    "data": {
+        "batch_size": 16,
+        "segment_length": 32768
+    },
+    "optimizer": {
+        "class_name": "Adam",
+        "kwargs": {
+            "learning_rate": 0.008
+        }
+    },
+    "lr_scheduler": {
+        "class_name": "ExponentialLR",
+        "kwargs": {
+            "gamma": 1
+        }
+    },
+    "hardware": {
+        "num_workers": 0,
+        "mixed_precision": true,
+        "accumulation_steps": 1
+    },
+    "loss": {
+        "validation_loss_function": "esr",
+        "weights": {
+            "mse": {
+                "value": 1.0
+            },
+            "pre_emph_mrstft": {
+                "value": 0.005,
+                "coefficient": 0.95
+            },
+            "mse_fft": {
+                "value": 0.1
+            }
+        }
+    },
+    "epochs": 100,
+    "min_epochs": 10,
+    "patience": 10,
+    "improvement_threshold": 1e-10
+}

@@ -1,0 +1,3802 @@
+[
+    {
+        "number": 0,
+        "value": 1.0001862446467082,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0003407121158729056,
+            "mse": 1.6849824350936138,
+            "esr": 0.5327910920341599,
+            "dc": 0.4090170133331055,
+            "pre_emph_mrstft_value": 0.007251485685479156,
+            "pre_emph_mrstft_coefficient": 0.5978044383194803,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:49:05.025896",
+        "datetime_complete": "2025-02-18T16:49:25.178832"
+    },
+    {
+        "number": 1,
+        "value": 1.0164295832316081,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.00041771019289487375,
+            "mse": 0.6831382609694429,
+            "esr": 0.6348129610115859,
+            "dc": 0.14530422222879036,
+            "pre_emph_mrstft_value": 0.000898884493610409,
+            "pre_emph_mrstft_coefficient": 0.9122852332913918,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:49:25.180837",
+        "datetime_complete": "2025-02-18T16:49:39.223200"
+    },
+    {
+        "number": 2,
+        "value": 1.000261704126994,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.0,
+            "learning_rate": 0.0027167650250864567,
+            "mse": 1.1665053889120414,
+            "esr": 0.5554015328693939,
+            "dc": 0.3644476500875725,
+            "pre_emph_mrstft_value": 0.0034748258825804124,
+            "pre_emph_mrstft_coefficient": 0.8354621297727047,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:49:39.225200",
+        "datetime_complete": "2025-02-18T16:49:53.587284"
+    },
+    {
+        "number": 3,
+        "value": 1.0073551734288533,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 1,
+            "dropout": 0.1,
+            "learning_rate": 0.0014474931508806498,
+            "mse": 0.8447765302366129,
+            "esr": 0.2684755331099644,
+            "dc": 0.3581328021316864,
+            "pre_emph_mrstft_value": 0.0009252358082872425,
+            "pre_emph_mrstft_coefficient": 0.7125297091620436,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:49:53.589793",
+        "datetime_complete": "2025-02-18T16:50:07.409412"
+    },
+    {
+        "number": 4,
+        "value": 1.0102885166803997,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.4,
+            "learning_rate": 0.009148472670792118,
+            "mse": 0.8674375133170389,
+            "esr": 0.7922288704802829,
+            "dc": 0.11738245052950158,
+            "pre_emph_mrstft_value": 0.005478120502862689,
+            "pre_emph_mrstft_coefficient": 0.502973856525293,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:50:07.411416",
+        "datetime_complete": "2025-02-18T16:50:21.192967"
+    },
+    {
+        "number": 5,
+        "value": 1.000677267710368,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0007193977708323134,
+            "mse": 0.5275579458269237,
+            "esr": 0.2643300682186872,
+            "dc": 0.5121345232855623,
+            "pre_emph_mrstft_value": 0.00745109786860319,
+            "pre_emph_mrstft_coefficient": 0.6802055576096862,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:50:21.195968",
+        "datetime_complete": "2025-02-18T16:50:35.373286"
+    },
+    {
+        "number": 6,
+        "value": 1.0308300654093425,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.2,
+            "learning_rate": 0.00012252730005088603,
+            "mse": 0.955702053709761,
+            "esr": 0.7016687385514571,
+            "dc": 0.3045682110419814,
+            "pre_emph_mrstft_value": 0.0001537494751135915,
+            "pre_emph_mrstft_coefficient": 0.7124301192477573,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:50:35.377288",
+        "datetime_complete": "2025-02-18T16:50:49.180240"
+    },
+    {
+        "number": 7,
+        "value": 1.5102556546529133,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.00010177319864324136,
+            "mse": 0.5860529837203512,
+            "esr": 0.718473372026622,
+            "dc": 0.7784014583599235,
+            "pre_emph_mrstft_value": 0.007980745771591382,
+            "pre_emph_mrstft_coefficient": 0.6309757169722858,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:50:49.182241",
+        "datetime_complete": "2025-02-18T16:51:03.401194"
+    },
+    {
+        "number": 8,
+        "value": 0.9999265869458517,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0005228457473265953,
+            "mse": 1.6247988570951126,
+            "esr": 0.40221351411465733,
+            "dc": 0.3856663144818191,
+            "pre_emph_mrstft_value": 0.006752675399378321,
+            "pre_emph_mrstft_coefficient": 0.6383464327471684,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:51:03.406192",
+        "datetime_complete": "2025-02-18T16:51:17.553932"
+    },
+    {
+        "number": 9,
+        "value": 1.0096967220306396,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.008462422546899606,
+            "mse": 1.131880006403867,
+            "esr": 0.10282052817560605,
+            "dc": 0.8881162171152729,
+            "pre_emph_mrstft_value": 0.007237681294112407,
+            "pre_emph_mrstft_coefficient": 0.5331296565346058,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:51:17.557439",
+        "datetime_complete": "2025-02-18T16:51:31.902154"
+    },
+    {
+        "number": 10,
+        "value": 1.0115254322687786,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0023107712255670395,
+            "mse": 1.9510846881398638,
+            "esr": 0.984057032837489,
+            "dc": 0.6257042789559908,
+            "pre_emph_mrstft_value": 0.0097710963625179,
+            "pre_emph_mrstft_coefficient": 0.8079440722932829,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:51:31.906153",
+        "datetime_complete": "2025-02-18T16:51:45.571092"
+    },
+    {
+        "number": 11,
+        "value": 1.0050530433654785,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0003329677119081287,
+            "mse": 1.6442901298838453,
+            "esr": 0.3906871414217562,
+            "dc": 0.5242569995017898,
+            "pre_emph_mrstft_value": 0.005412452847545438,
+            "pre_emph_mrstft_coefficient": 0.6184863404052131,
+            "mask_first": 8192
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:51:45.574094",
+        "datetime_complete": "2025-02-18T16:51:58.736525"
+    },
+    {
+        "number": 12,
+        "value": 1.0030196110407512,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00026744631821064464,
+            "mse": 1.5411138321139108,
+            "esr": 0.4327739973316744,
+            "dc": 0.2958847372451107,
+            "pre_emph_mrstft_value": 0.0038622118811163023,
+            "pre_emph_mrstft_coefficient": 0.5902028259133546,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:51:58.741525",
+        "datetime_complete": "2025-02-18T16:52:11.909763"
+    },
+    {
+        "number": 13,
+        "value": 1.000049352645874,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0006766585472265275,
+            "mse": 1.5243678763458237,
+            "esr": 0.2895619243708496,
+            "dc": 0.6846745714164911,
+            "pre_emph_mrstft_value": 0.008988953581070342,
+            "pre_emph_mrstft_coefficient": 0.9937710109949267,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:52:11.914764",
+        "datetime_complete": "2025-02-18T16:52:25.116324"
+    },
+    {
+        "number": 14,
+        "value": 1.0036900440851848,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0008693178464111749,
+            "mse": 1.3612444202300678,
+            "esr": 0.02727441455308066,
+            "dc": 0.6996991655746416,
+            "pre_emph_mrstft_value": 0.009859862358373637,
+            "pre_emph_mrstft_coefficient": 0.9795186200850782,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:52:25.121331",
+        "datetime_complete": "2025-02-18T16:52:38.286399"
+    },
+    {
+        "number": 15,
+        "value": 1.0012340545654297,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0005827289662241406,
+            "mse": 1.9486011911826087,
+            "esr": 0.2594050955173381,
+            "dc": 0.9884773718225089,
+            "pre_emph_mrstft_value": 0.008543079827954998,
+            "pre_emph_mrstft_coefficient": 0.7888233348621023,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:52:38.290400",
+        "datetime_complete": "2025-02-18T16:52:51.461038"
+    },
+    {
+        "number": 16,
+        "value": 1.1544487476348877,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.00019257695322579706,
+            "mse": 1.4199505317463421,
+            "esr": 0.18720277152539666,
+            "dc": 0.6177709707056858,
+            "pre_emph_mrstft_value": 0.005838973663173996,
+            "pre_emph_mrstft_coefficient": 0.9901766072029874,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:52:51.465039",
+        "datetime_complete": "2025-02-18T16:53:04.630202"
+    },
+    {
+        "number": 17,
+        "value": 1.0272659460703533,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0013888777645576704,
+            "mse": 1.6387213361959045,
+            "esr": 0.37213521220829326,
+            "dc": 0.20799490555502764,
+            "pre_emph_mrstft_value": 0.008650721607320328,
+            "pre_emph_mrstft_coefficient": 0.8775353473627668,
+            "mask_first": 8192
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:53:04.634203",
+        "datetime_complete": "2025-02-18T16:53:17.794750"
+    },
+    {
+        "number": 18,
+        "value": 1.000149170557658,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.00424612098431376,
+            "mse": 1.8026497431036874,
+            "esr": 0.45745392224981507,
+            "dc": 0.7901001126687994,
+            "pre_emph_mrstft_value": 0.006328144326745557,
+            "pre_emph_mrstft_coefficient": 0.7554840595013297,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:53:17.799750",
+        "datetime_complete": "2025-02-18T16:53:30.969429"
+    },
+    {
+        "number": 19,
+        "value": 1.0094754298528035,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.2,
+            "learning_rate": 0.0005214837786053784,
+            "mse": 1.3719582910423354,
+            "esr": 0.32927824044003884,
+            "dc": 0.4673942113706814,
+            "pre_emph_mrstft_value": 0.0038279507526561988,
+            "pre_emph_mrstft_coefficient": 0.9197987357595683,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:53:30.975429",
+        "datetime_complete": "2025-02-18T16:53:44.143394"
+    },
+    {
+        "number": 20,
+        "value": 1.0012484788894653,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0012516162018978733,
+            "mse": 1.7792613557428285,
+            "esr": 0.12437651602900512,
+            "dc": 0.5918704115850605,
+            "pre_emph_mrstft_value": 0.008921399009853058,
+            "pre_emph_mrstft_coefficient": 0.6643708689808544,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:53:44.148394",
+        "datetime_complete": "2025-02-18T16:53:57.313453"
+    },
+    {
+        "number": 21,
+        "value": 1.0004622141520183,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.005692045036921825,
+            "mse": 1.8136041840102717,
+            "esr": 0.4420920529518797,
+            "dc": 0.7871005220030662,
+            "pre_emph_mrstft_value": 0.00645687215665148,
+            "pre_emph_mrstft_coefficient": 0.7591613597645724,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:53:57.318454",
+        "datetime_complete": "2025-02-18T16:54:10.486279"
+    },
+    {
+        "number": 22,
+        "value": 1.003683606783549,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0019613705644942964,
+            "mse": 1.5652686827570608,
+            "esr": 0.5031587685839032,
+            "dc": 0.766209556705176,
+            "pre_emph_mrstft_value": 0.004537109191256917,
+            "pre_emph_mrstft_coefficient": 0.5644568578276293,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:54:10.492280",
+        "datetime_complete": "2025-02-18T16:54:23.660470"
+    },
+    {
+        "number": 23,
+        "value": 1.0026877721150715,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.003977146678193928,
+            "mse": 1.7911765555246955,
+            "esr": 0.5974316653322782,
+            "dc": 0.9066175178475356,
+            "pre_emph_mrstft_value": 0.0068556736166602945,
+            "pre_emph_mrstft_coefficient": 0.84402297202777,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:54:23.667977",
+        "datetime_complete": "2025-02-18T16:54:36.835659"
+    },
+    {
+        "number": 24,
+        "value": 1.0416985750198364,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 1,
+            "dropout": 0.5,
+            "learning_rate": 0.0008904351487723501,
+            "mse": 1.485307832981667,
+            "esr": 0.3145920121755971,
+            "dc": 0.6689608224281391,
+            "pre_emph_mrstft_value": 0.006242679505962604,
+            "pre_emph_mrstft_coefficient": 0.7364242602761177,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:54:36.840657",
+        "datetime_complete": "2025-02-18T16:54:50.007851"
+    },
+    {
+        "number": 25,
+        "value": 1.028968056042989,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0002004892477890053,
+            "mse": 1.2915055088217402,
+            "esr": 0.4384354989530611,
+            "dc": 0.044008373761130315,
+            "pre_emph_mrstft_value": 0.002387831090373149,
+            "pre_emph_mrstft_coefficient": 0.6716962669727311,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:54:50.013851",
+        "datetime_complete": "2025-02-18T16:55:03.187978"
+    },
+    {
+        "number": 26,
+        "value": 1.00583016872406,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.004050774553088865,
+            "mse": 1.866347825271339,
+            "esr": 0.1650402465126469,
+            "dc": 0.9075137298979722,
+            "pre_emph_mrstft_value": 0.004747565592101598,
+            "pre_emph_mrstft_coefficient": 0.9581809188536382,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:55:03.195977",
+        "datetime_complete": "2025-02-18T16:55:16.359713"
+    },
+    {
+        "number": 27,
+        "value": 1.008169452349345,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.000533139041100258,
+            "mse": 1.6948596710491566,
+            "esr": 0.8495261081395176,
+            "dc": 0.8346134846608454,
+            "pre_emph_mrstft_value": 0.007955533570612355,
+            "pre_emph_mrstft_coefficient": 0.7675071830510435,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:55:16.365717",
+        "datetime_complete": "2025-02-18T16:55:29.533268"
+    },
+    {
+        "number": 28,
+        "value": 1.0021353165308635,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.2,
+            "learning_rate": 0.001840159376949328,
+            "mse": 1.4769467686468971,
+            "esr": 0.21310646337713424,
+            "dc": 0.5614771704612566,
+            "pre_emph_mrstft_value": 0.00922790089336981,
+            "pre_emph_mrstft_coefficient": 0.9100017692425628,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:55:29.539269",
+        "datetime_complete": "2025-02-18T16:55:42.741417"
+    },
+    {
+        "number": 29,
+        "value": 1.017964522043864,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 1,
+            "dropout": 0.5,
+            "learning_rate": 0.0031031690211020353,
+            "mse": 1.716614573340316,
+            "esr": 0.5354503112697616,
+            "dc": 0.4487911648758034,
+            "pre_emph_mrstft_value": 0.007455242231457085,
+            "pre_emph_mrstft_coefficient": 0.5669690950411606,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:55:42.748417",
+        "datetime_complete": "2025-02-18T16:55:55.918663"
+    },
+    {
+        "number": 30,
+        "value": 1.002867341041565,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.001090451268578184,
+            "mse": 1.222960854816188,
+            "esr": 0.4816602468084741,
+            "dc": 0.702987290676635,
+            "pre_emph_mrstft_value": 0.00663610267936624,
+            "pre_emph_mrstft_coefficient": 0.6460173248984811,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:55:55.925663",
+        "datetime_complete": "2025-02-18T16:56:09.089250"
+    },
+    {
+        "number": 31,
+        "value": 1.0051856835683186,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00040957744230967706,
+            "mse": 1.5901489607713322,
+            "esr": 0.6435617209422262,
+            "dc": 0.43481220796647413,
+            "pre_emph_mrstft_value": 0.008080185833202087,
+            "pre_emph_mrstft_coefficient": 0.6003311657528606,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:56:09.095756",
+        "datetime_complete": "2025-02-18T16:56:22.264408"
+    },
+    {
+        "number": 32,
+        "value": 1.0004867315292358,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.000297011192936814,
+            "mse": 1.8967247575465502,
+            "esr": 0.3605106833038045,
+            "dc": 0.3868754845990881,
+            "pre_emph_mrstft_value": 0.006116176339596061,
+            "pre_emph_mrstft_coefficient": 0.546369255860869,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:56:22.271410",
+        "datetime_complete": "2025-02-18T16:56:35.437806"
+    },
+    {
+        "number": 33,
+        "value": 1.0018850167592366,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.00038701766043595524,
+            "mse": 1.6939380512443032,
+            "esr": 0.5916142791159542,
+            "dc": 0.2508956912176793,
+            "pre_emph_mrstft_value": 0.0069672518514194565,
+            "pre_emph_mrstft_coefficient": 0.7060616229781325,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:56:35.447805",
+        "datetime_complete": "2025-02-18T16:56:48.630060"
+    },
+    {
+        "number": 34,
+        "value": 1.002116322517395,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0007042879826998187,
+            "mse": 1.733033750099792,
+            "esr": 0.5173446465695076,
+            "dc": 0.3880401053086002,
+            "pre_emph_mrstft_value": 0.0054091002659689535,
+            "pre_emph_mrstft_coefficient": 0.5001548450797277,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:56:48.637060",
+        "datetime_complete": "2025-02-18T16:57:01.799234"
+    },
+    {
+        "number": 35,
+        "value": 1.0021050373713176,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.4,
+            "learning_rate": 0.0002468929397061814,
+            "mse": 1.0871313384909982,
+            "esr": 0.40826916985153017,
+            "dc": 0.1668468324077571,
+            "pre_emph_mrstft_value": 0.00772419673163166,
+            "pre_emph_mrstft_coefficient": 0.8407580134563939,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:57:01.806743",
+        "datetime_complete": "2025-02-18T16:57:14.975245"
+    },
+    {
+        "number": 36,
+        "value": 1.0000348488489788,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00016570224854186953,
+            "mse": 1.505158161402385,
+            "esr": 0.28257667337298376,
+            "dc": 0.33303140726553054,
+            "pre_emph_mrstft_value": 0.00938083976546972,
+            "pre_emph_mrstft_coefficient": 0.5986339774081736,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:57:14.986245",
+        "datetime_complete": "2025-02-18T16:57:28.179800"
+    },
+    {
+        "number": 37,
+        "value": 1.1620898246765137,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00020650608607883272,
+            "mse": 1.4780947935897106,
+            "esr": 0.2690564311699072,
+            "dc": 0.3171564274698279,
+            "pre_emph_mrstft_value": 0.009587629699820988,
+            "pre_emph_mrstft_coefficient": 0.6056344877281615,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:57:28.187803",
+        "datetime_complete": "2025-02-18T16:57:41.374319"
+    },
+    {
+        "number": 38,
+        "value": 1.1040815909703572,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.4,
+            "learning_rate": 0.00015948073501532013,
+            "mse": 1.2828311071529992,
+            "esr": 0.29771403450051204,
+            "dc": 0.48723495904181413,
+            "pre_emph_mrstft_value": 0.008434861145899654,
+            "pre_emph_mrstft_coefficient": 0.6949232634486644,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:57:41.381320",
+        "datetime_complete": "2025-02-18T16:57:54.547488"
+    },
+    {
+        "number": 39,
+        "value": 1.0085204442342122,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0006954329701607192,
+            "mse": 1.9947327153690995,
+            "esr": 0.3435994214678022,
+            "dc": 0.08234569792513713,
+            "pre_emph_mrstft_value": 0.009184855460556703,
+            "pre_emph_mrstft_coefficient": 0.7331600085704932,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:57:54.556486",
+        "datetime_complete": "2025-02-18T16:58:07.726092"
+    },
+    {
+        "number": 40,
+        "value": 1.00503671169281,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.0015509064767821523,
+            "mse": 1.6080385986084855,
+            "esr": 0.22407907729356416,
+            "dc": 0.5502354818923278,
+            "pre_emph_mrstft_value": 0.009099560609837467,
+            "pre_emph_mrstft_coefficient": 0.5298244418578362,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:58:07.736093",
+        "datetime_complete": "2025-02-18T16:58:20.901886"
+    },
+    {
+        "number": 41,
+        "value": 1.001505931218465,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00013487832708454787,
+            "mse": 1.8564750182528371,
+            "esr": 0.4704405668993195,
+            "dc": 0.354081698475213,
+            "pre_emph_mrstft_value": 0.007100974978418095,
+            "pre_emph_mrstft_coefficient": 0.6390816794102838,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:58:20.914889",
+        "datetime_complete": "2025-02-18T16:58:34.094398"
+    },
+    {
+        "number": 42,
+        "value": 1.0093741814295452,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00047464439867891267,
+            "mse": 1.4957576195705058,
+            "esr": 0.5661615916673354,
+            "dc": 0.24524449313897492,
+            "pre_emph_mrstft_value": 0.005825811116286936,
+            "pre_emph_mrstft_coefficient": 0.653451289290973,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:58:34.102396",
+        "datetime_complete": "2025-02-18T16:58:47.273613"
+    },
+    {
+        "number": 43,
+        "value": 1.001678427060445,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.00034775662310815845,
+            "mse": 1.39001892781173,
+            "esr": 0.7024392180234128,
+            "dc": 0.4225953895310051,
+            "pre_emph_mrstft_value": 0.007475786050543015,
+            "pre_emph_mrstft_coefficient": 0.5703807330500377,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:58:47.282617",
+        "datetime_complete": "2025-02-18T16:59:00.460583"
+    },
+    {
+        "number": 44,
+        "value": 1.2231769959131877,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.00014706584138153748,
+            "mse": 1.6514597857626028,
+            "esr": 0.279876734202665,
+            "dc": 0.33336439805595,
+            "pre_emph_mrstft_value": 0.008283732327007597,
+            "pre_emph_mrstft_coefficient": 0.6237390744726845,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:59:00.469583",
+        "datetime_complete": "2025-02-18T16:59:13.644374"
+    },
+    {
+        "number": 45,
+        "value": 1.6907339096069336,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00010165733461173688,
+            "mse": 0.7381729255700968,
+            "esr": 0.3950510130825514,
+            "dc": 0.7372263865055652,
+            "pre_emph_mrstft_value": 0.009919904307524157,
+            "pre_emph_mrstft_coefficient": 0.5226369891412679,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:59:13.655491",
+        "datetime_complete": "2025-02-18T16:59:26.827986"
+    },
+    {
+        "number": 46,
+        "value": 1.003165602684021,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.00829099223482598,
+            "mse": 1.5772667905779938,
+            "esr": 0.628891081750742,
+            "dc": 0.8284353557012647,
+            "pre_emph_mrstft_value": 0.005308952233743834,
+            "pre_emph_mrstft_coefficient": 0.5833927422521905,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:59:26.836986",
+        "datetime_complete": "2025-02-18T16:59:40.014489"
+    },
+    {
+        "number": 47,
+        "value": 1.0179770787556965,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0006188026438877193,
+            "mse": 1.0596864891098297,
+            "esr": 0.06728915137137154,
+            "dc": 0.2864880663777223,
+            "pre_emph_mrstft_value": 0.0012967205370347599,
+            "pre_emph_mrstft_coefficient": 0.9406820606433357,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:59:40.027487",
+        "datetime_complete": "2025-02-18T16:59:53.199109"
+    },
+    {
+        "number": 48,
+        "value": 1.0001786549886067,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0008494419354269618,
+            "mse": 1.755410593986426,
+            "esr": 0.75271110781657,
+            "dc": 0.515602234827771,
+            "pre_emph_mrstft_value": 0.00881754998802126,
+            "pre_emph_mrstft_coefficient": 0.6882990440431683,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T16:59:53.213110",
+        "datetime_complete": "2025-02-18T17:00:06.405211"
+    },
+    {
+        "number": 49,
+        "value": 1.0040009419123332,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0009942241727057812,
+            "mse": 1.751301659117709,
+            "esr": 0.9774493328004549,
+            "dc": 0.6589633128256871,
+            "pre_emph_mrstft_value": 0.00961478405189026,
+            "pre_emph_mrstft_coefficient": 0.6909796550338001,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:00:06.415212",
+        "datetime_complete": "2025-02-18T17:00:19.578724"
+    },
+    {
+        "number": 50,
+        "value": 1.0255693594614665,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.2,
+            "learning_rate": 0.001092777096472863,
+            "mse": 1.915580893045133,
+            "esr": 0.793342320793932,
+            "dc": 0.5275645691134452,
+            "pre_emph_mrstft_value": 0.008913388489957909,
+            "pre_emph_mrstft_coefficient": 0.8751339001547429,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:00:19.588725",
+        "datetime_complete": "2025-02-18T17:00:32.757949"
+    },
+    {
+        "number": 51,
+        "value": 1.0162738958994548,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0008103032509507114,
+            "mse": 1.8183624304632513,
+            "esr": 0.6605437200612104,
+            "dc": 0.40413966792168,
+            "pre_emph_mrstft_value": 0.007721904485191798,
+            "pre_emph_mrstft_coefficient": 0.6149705497658676,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:00:32.767952",
+        "datetime_complete": "2025-02-18T17:00:45.935284"
+    },
+    {
+        "number": 52,
+        "value": 1.018027623494466,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0004875418643657421,
+            "mse": 1.5374281599972393,
+            "esr": 0.8807143614244468,
+            "dc": 0.4909958986475602,
+            "pre_emph_mrstft_value": 0.008533095059712096,
+            "pre_emph_mrstft_coefficient": 0.8133947622382589,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:00:45.950285",
+        "datetime_complete": "2025-02-18T17:00:59.130846"
+    },
+    {
+        "number": 53,
+        "value": 1.0032356182734172,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0003181561356851446,
+            "mse": 1.655565158803488,
+            "esr": 0.7326970281109062,
+            "dc": 0.5870243826223537,
+            "pre_emph_mrstft_value": 0.00938150029484604,
+            "pre_emph_mrstft_coefficient": 0.7220292462036689,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:00:59.141847",
+        "datetime_complete": "2025-02-18T17:01:12.317193"
+    },
+    {
+        "number": 54,
+        "value": 1.014331579208374,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00023679872568391355,
+            "mse": 1.4341245087547405,
+            "esr": 0.14286566566496584,
+            "dc": 0.2662532483708461,
+            "pre_emph_mrstft_value": 0.006811630006347544,
+            "pre_emph_mrstft_coefficient": 0.6768700625599633,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:01:12.328192",
+        "datetime_complete": "2025-02-18T17:01:25.496647"
+    },
+    {
+        "number": 55,
+        "value": 1.000429630279541,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00042635528679382134,
+            "mse": 1.3363728712053016,
+            "esr": 0.458089854183936,
+            "dc": 0.6370578384141857,
+            "pre_emph_mrstft_value": 0.008713642591634943,
+            "pre_emph_mrstft_coefficient": 0.6278324780350576,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:01:25.509650",
+        "datetime_complete": "2025-02-18T17:01:38.668288"
+    },
+    {
+        "number": 56,
+        "value": 1.0155906279881795,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0005979313497389397,
+            "mse": 1.7623207730467103,
+            "esr": 0.23637222944239544,
+            "dc": 0.1844301618382836,
+            "pre_emph_mrstft_value": 0.008181884130599917,
+            "pre_emph_mrstft_coefficient": 0.7756493182034871,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:01:38.680294",
+        "datetime_complete": "2025-02-18T17:01:51.844663"
+    },
+    {
+        "number": 57,
+        "value": 1.0134421984354656,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0001773237446542916,
+            "mse": 1.5412850306925234,
+            "esr": 0.4195237576919928,
+            "dc": 0.45534556726777786,
+            "pre_emph_mrstft_value": 0.0057787842922642505,
+            "pre_emph_mrstft_coefficient": 0.6600196827196803,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:01:51.855660",
+        "datetime_complete": "2025-02-18T17:02:05.018599"
+    },
+    {
+        "number": 58,
+        "value": 1.6908232768376668,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.2,
+            "learning_rate": 0.00011788053968898009,
+            "mse": 1.8389295248856456,
+            "esr": 0.3321874979833249,
+            "dc": 0.9965021251104383,
+            "pre_emph_mrstft_value": 0.00639572788142398,
+            "pre_emph_mrstft_coefficient": 0.5490018604372444,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:02:05.030599",
+        "datetime_complete": "2025-02-18T17:02:18.196197"
+    },
+    {
+        "number": 59,
+        "value": 0.9998901089032491,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0008513377529154654,
+            "mse": 1.6181755847531878,
+            "esr": 0.3695864992830804,
+            "dc": 0.8247386751042072,
+            "pre_emph_mrstft_value": 0.0072959338652264765,
+            "pre_emph_mrstft_coefficient": 0.587309978435331,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:02:18.211705",
+        "datetime_complete": "2025-02-18T17:02:31.403542"
+    },
+    {
+        "number": 60,
+        "value": 1.0021475553512573,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0015743440103640155,
+            "mse": 1.6287634168664678,
+            "esr": 0.19020920891630433,
+            "dc": 0.8349685146074503,
+            "pre_emph_mrstft_value": 0.004280878875782332,
+            "pre_emph_mrstft_coefficient": 0.5865496563365824,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:02:31.414045",
+        "datetime_complete": "2025-02-18T17:02:44.618226"
+    },
+    {
+        "number": 61,
+        "value": 1.032206614812215,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0009449112765606869,
+            "mse": 1.6919013811602597,
+            "esr": 0.38473430025086,
+            "dc": 0.8770686963468,
+            "pre_emph_mrstft_value": 0.00731846804575045,
+            "pre_emph_mrstft_coefficient": 0.595914886924048,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:02:44.634733",
+        "datetime_complete": "2025-02-18T17:02:57.816890"
+    },
+    {
+        "number": 62,
+        "value": 1.0327250162760417,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.000759855774041232,
+            "mse": 1.7751328305072311,
+            "esr": 0.36840280733294445,
+            "dc": 0.9564565530593576,
+            "pre_emph_mrstft_value": 0.007601455955379246,
+            "pre_emph_mrstft_coefficient": 0.6340296151920598,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:02:57.831401",
+        "datetime_complete": "2025-02-18T17:03:10.993262"
+    },
+    {
+        "number": 63,
+        "value": 1.0023996432622273,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0012381228941634706,
+            "mse": 1.6691917211056821,
+            "esr": 0.30094710542201086,
+            "dc": 0.7302719271110959,
+            "pre_emph_mrstft_value": 0.006084129842892645,
+            "pre_emph_mrstft_coefficient": 0.5477566115591469,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:03:11.005262",
+        "datetime_complete": "2025-02-18T17:03:24.188809"
+    },
+    {
+        "number": 64,
+        "value": 1.0073167085647583,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0006358421624914025,
+            "mse": 1.4428462936455888,
+            "esr": 0.5422664365516138,
+            "dc": 0.8161614981208484,
+            "pre_emph_mrstft_value": 0.007973019464728281,
+            "pre_emph_mrstft_coefficient": 0.5735665063989973,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:03:24.206813",
+        "datetime_complete": "2025-02-18T17:03:37.365559"
+    },
+    {
+        "number": 65,
+        "value": 1.0003222227096558,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.000868228537990385,
+            "mse": 1.5128709550326034,
+            "esr": 0.4813041192003465,
+            "dc": 0.3474185597783037,
+            "pre_emph_mrstft_value": 0.008827133188219358,
+            "pre_emph_mrstft_coefficient": 0.6107746936224939,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:03:37.378562",
+        "datetime_complete": "2025-02-18T17:03:50.561161"
+    },
+    {
+        "number": 66,
+        "value": 0.9990909894307455,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0027937991565806166,
+            "mse": 1.5887598235261708,
+            "esr": 0.24724194839430502,
+            "dc": 0.7021254939940287,
+            "pre_emph_mrstft_value": 0.007160388555774725,
+            "pre_emph_mrstft_coefficient": 0.7488615625460154,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:03:50.573161",
+        "datetime_complete": "2025-02-18T17:04:03.748011"
+    },
+    {
+        "number": 67,
+        "value": 1.0005262692769368,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.1,
+            "learning_rate": 0.004954675049557503,
+            "mse": 1.5902311887384584,
+            "esr": 0.25368421377912465,
+            "dc": 0.774327257244426,
+            "pre_emph_mrstft_value": 0.006600837597328692,
+            "pre_emph_mrstft_coefficient": 0.7996694700101319,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:04:03.766011",
+        "datetime_complete": "2025-02-18T17:04:16.934142"
+    },
+    {
+        "number": 68,
+        "value": 1.009938915570577,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0026838920666236565,
+            "mse": 1.2137936406784091,
+            "esr": 0.18566392032177087,
+            "dc": 0.7140189903195249,
+            "pre_emph_mrstft_value": 0.009420921196605822,
+            "pre_emph_mrstft_coefficient": 0.7498758900070599,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:04:16.947645",
+        "datetime_complete": "2025-02-18T17:04:30.110749"
+    },
+    {
+        "number": 69,
+        "value": 1.0108073552449544,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0066019757300746305,
+            "mse": 1.7103164763673597,
+            "esr": 0.32219443380422397,
+            "dc": 0.8622685078472885,
+            "pre_emph_mrstft_value": 0.007141585283239791,
+            "pre_emph_mrstft_coefficient": 0.8709406458779967,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:04:30.130750",
+        "datetime_complete": "2025-02-18T17:04:43.298469"
+    },
+    {
+        "number": 70,
+        "value": 1.017568548520406,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.003739216755500867,
+            "mse": 1.5539959746536434,
+            "esr": 0.3551231030165144,
+            "dc": 0.6746592340022507,
+            "pre_emph_mrstft_value": 0.004926223711095127,
+            "pre_emph_mrstft_coefficient": 0.9989981577095449,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:04:43.314469",
+        "datetime_complete": "2025-02-18T17:04:56.484225"
+    },
+    {
+        "number": 71,
+        "value": 1.001626968383789,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00505572514283863,
+            "mse": 1.6344422367351916,
+            "esr": 0.28132856439838905,
+            "dc": 0.7504609212498786,
+            "pre_emph_mrstft_value": 0.006758070683039324,
+            "pre_emph_mrstft_coefficient": 0.7069481403190281,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:04:56.498226",
+        "datetime_complete": "2025-02-18T17:05:09.670814"
+    },
+    {
+        "number": 72,
+        "value": 1.0083081324895222,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.002073939246626266,
+            "mse": 1.8037697906786687,
+            "esr": 0.4306171925736594,
+            "dc": 0.799335305160929,
+            "pre_emph_mrstft_value": 0.007941377889866683,
+            "pre_emph_mrstft_coefficient": 0.65812624979081,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:05:09.684813",
+        "datetime_complete": "2025-02-18T17:05:22.851532"
+    },
+    {
+        "number": 73,
+        "value": 1.0000808040301006,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0030350474542936894,
+            "mse": 1.7439314400094947,
+            "esr": 0.5081957836966043,
+            "dc": 0.38253201934637965,
+            "pre_emph_mrstft_value": 0.0031236647654200953,
+            "pre_emph_mrstft_coefficient": 0.6875438817121092,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:05:22.865038",
+        "datetime_complete": "2025-02-18T17:05:36.036172"
+    },
+    {
+        "number": 74,
+        "value": 1.0234815677007039,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0031849436620853913,
+            "mse": 1.7419663882673178,
+            "esr": 0.5139270600361981,
+            "dc": 0.37404782065379927,
+            "pre_emph_mrstft_value": 0.0033706876880298248,
+            "pre_emph_mrstft_coefficient": 0.6860218709947171,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:05:36.051175",
+        "datetime_complete": "2025-02-18T17:05:49.224268"
+    },
+    {
+        "number": 75,
+        "value": 1.012210766474406,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0025395811869168114,
+            "mse": 1.8865229213435741,
+            "esr": 0.24747628692016255,
+            "dc": 0.6051496301261999,
+            "pre_emph_mrstft_value": 0.0005881952042220053,
+            "pre_emph_mrstft_coefficient": 0.7283154251061708,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:05:49.239270",
+        "datetime_complete": "2025-02-18T17:06:02.407310"
+    },
+    {
+        "number": 76,
+        "value": 1.015194574991862,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0017446600941341329,
+            "mse": 1.9377066163570893,
+            "esr": 0.40105762583232196,
+            "dc": 0.32007424871984524,
+            "pre_emph_mrstft_value": 0.0012267964552660042,
+            "pre_emph_mrstft_coefficient": 0.675018316822352,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:06:02.427311",
+        "datetime_complete": "2025-02-18T17:06:15.593441"
+    },
+    {
+        "number": 77,
+        "value": 1.0039577881495159,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.003241355181036177,
+            "mse": 1.587948474835785,
+            "esr": 0.20374360856904436,
+            "dc": 0.9448503704490883,
+            "pre_emph_mrstft_value": 0.0023009365610404775,
+            "pre_emph_mrstft_coefficient": 0.7408499270120983,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:06:15.607441",
+        "datetime_complete": "2025-02-18T17:06:28.776890"
+    },
+    {
+        "number": 78,
+        "value": 1.0024361213048298,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.002101793577505354,
+            "mse": 1.4457260925298012,
+            "esr": 0.3052945708072323,
+            "dc": 0.4674307982546456,
+            "pre_emph_mrstft_value": 0.0025087491913339845,
+            "pre_emph_mrstft_coefficient": 0.7742879178103474,
+            "mask_first": 8192
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:06:28.796897",
+        "datetime_complete": "2025-02-18T17:06:41.972156"
+    },
+    {
+        "number": 79,
+        "value": 1.0597296555836995,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0013172509193873647,
+            "mse": 0.5129758882918527,
+            "esr": 0.44691628441548575,
+            "dc": 0.5639866795960423,
+            "pre_emph_mrstft_value": 0.009972917996432129,
+            "pre_emph_mrstft_coefficient": 0.6454360175020504,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:06:41.989667",
+        "datetime_complete": "2025-02-18T17:06:55.170734"
+    },
+    {
+        "number": 80,
+        "value": 1.0022207101186116,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.004590842573923281,
+            "mse": 1.9855838467101412,
+            "esr": 0.11249198330817067,
+            "dc": 0.2217744836344654,
+            "pre_emph_mrstft_value": 0.003033657723574465,
+            "pre_emph_mrstft_coefficient": 0.8285030233006184,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:06:55.186240",
+        "datetime_complete": "2025-02-18T17:07:08.365874"
+    },
+    {
+        "number": 81,
+        "value": 1.001315752665202,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.000544589700389985,
+            "mse": 1.6780765128053758,
+            "esr": 0.5847493456097338,
+            "dc": 0.3964464088854852,
+            "pre_emph_mrstft_value": 0.00635251183331758,
+            "pre_emph_mrstft_coefficient": 0.6013639074548031,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:07:08.381881",
+        "datetime_complete": "2025-02-18T17:07:21.549472"
+    },
+    {
+        "number": 82,
+        "value": 1.0007284084955852,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0010885397919001775,
+            "mse": 1.7265851929667582,
+            "esr": 0.4991856558258001,
+            "dc": 0.4242597168950504,
+            "pre_emph_mrstft_value": 0.0072633479080480585,
+            "pre_emph_mrstft_coefficient": 0.8927814077302444,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:07:21.571473",
+        "datetime_complete": "2025-02-18T17:07:34.757064"
+    },
+    {
+        "number": 83,
+        "value": 1.0104797681172688,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0061471124585106805,
+            "mse": 1.618065590663702,
+            "esr": 0.35258940164980224,
+            "dc": 0.2866452794000045,
+            "pre_emph_mrstft_value": 0.008288169805216659,
+            "pre_emph_mrstft_coefficient": 0.6983535641493038,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:07:34.778571",
+        "datetime_complete": "2025-02-18T17:07:47.964446"
+    },
+    {
+        "number": 84,
+        "value": 1.0675049622853596,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0003753302320254493,
+            "mse": 1.8373305848136077,
+            "esr": 0.6187469005886415,
+            "dc": 0.5176523253322216,
+            "pre_emph_mrstft_value": 0.006927272706822666,
+            "pre_emph_mrstft_coefficient": 0.7171258300933788,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:07:47.984957",
+        "datetime_complete": "2025-02-18T17:08:01.165080"
+    },
+    {
+        "number": 85,
+        "value": 1.019176443417867,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.2,
+            "learning_rate": 0.0006831270714487258,
+            "mse": 1.7771197450410543,
+            "esr": 0.7534966214888191,
+            "dc": 0.6836410355977829,
+            "pre_emph_mrstft_value": 0.007732690690412054,
+            "pre_emph_mrstft_coefficient": 0.9702200517966005,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:08:01.188595",
+        "datetime_complete": "2025-02-18T17:08:14.353835"
+    },
+    {
+        "number": 86,
+        "value": 1.0134289264678955,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.5,
+            "learning_rate": 0.00045249319909443597,
+            "mse": 1.5227096257279682,
+            "esr": 0.5563580945767466,
+            "dc": 0.7637859506601212,
+            "pre_emph_mrstft_value": 0.0055444184292229495,
+            "pre_emph_mrstft_coefficient": 0.515918471868571,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:08:14.369838",
+        "datetime_complete": "2025-02-18T17:08:27.540264"
+    },
+    {
+        "number": 87,
+        "value": 1.0148544708887737,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.002392020675180202,
+            "mse": 1.399536392548632,
+            "esr": 0.9350231215099196,
+            "dc": 0.34491777721920136,
+            "pre_emph_mrstft_value": 0.008446756427199062,
+            "pre_emph_mrstft_coefficient": 0.5574692369507637,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:08:27.561267",
+        "datetime_complete": "2025-02-18T17:08:40.734827"
+    },
+    {
+        "number": 88,
+        "value": 1.0114248196283977,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.00027402288629813846,
+            "mse": 1.3435185733855741,
+            "esr": 0.8139137987042464,
+            "dc": 0.4198417979917013,
+            "pre_emph_mrstft_value": 0.006192962618213391,
+            "pre_emph_mrstft_coefficient": 0.619430406872164,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:08:40.757828",
+        "datetime_complete": "2025-02-18T17:08:53.937233"
+    },
+    {
+        "number": 89,
+        "value": 1.0128885904947917,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0007918059821874111,
+            "mse": 1.6692042133231024,
+            "esr": 0.3829722313069518,
+            "dc": 0.37693032907051227,
+            "pre_emph_mrstft_value": 0.00897875583406915,
+            "pre_emph_mrstft_coefficient": 0.5846958193883776,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:08:53.958233",
+        "datetime_complete": "2025-02-18T17:09:07.134808"
+    },
+    {
+        "number": 90,
+        "value": 1.0028735399246216,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.009966061594419113,
+            "mse": 1.4652968964461404,
+            "esr": 0.6827474202017252,
+            "dc": 0.6497277094365997,
+            "pre_emph_mrstft_value": 0.004196253197518725,
+            "pre_emph_mrstft_coefficient": 0.6668050122846448,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:09:07.154807",
+        "datetime_complete": "2025-02-18T17:09:20.325855"
+    },
+    {
+        "number": 91,
+        "value": 1.0233149131139119,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.0,
+            "learning_rate": 0.0036967687797841643,
+            "mse": 1.155083858012453,
+            "esr": 0.527158461613823,
+            "dc": 0.3007191589668576,
+            "pre_emph_mrstft_value": 0.0031121979300368554,
+            "pre_emph_mrstft_coefficient": 0.7595190655304812,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:09:20.349856",
+        "datetime_complete": "2025-02-18T17:09:33.528979"
+    },
+    {
+        "number": 92,
+        "value": 1.0029006004333496,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.1,
+            "learning_rate": 0.004097022964995135,
+            "mse": 0.9949836517578436,
+            "esr": 0.49343933325980893,
+            "dc": 0.3653086518542461,
+            "pre_emph_mrstft_value": 0.003458005206248616,
+            "pre_emph_mrstft_coefficient": 0.6404303279911859,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:09:33.547979",
+        "datetime_complete": "2025-02-18T17:09:46.759554"
+    },
+    {
+        "number": 93,
+        "value": 1.0172710418701172,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.2,
+            "learning_rate": 0.002776773035448722,
+            "mse": 0.8578065420879969,
+            "esr": 0.46558082432266523,
+            "dc": 0.8517985211993137,
+            "pre_emph_mrstft_value": 0.00961373598104774,
+            "pre_emph_mrstft_coefficient": 0.9222627230385503,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:09:46.779555",
+        "datetime_complete": "2025-02-18T17:09:59.960078"
+    },
+    {
+        "number": 94,
+        "value": 1.004941423734029,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0005426313574637715,
+            "mse": 1.3018916747640135,
+            "esr": 0.41476860284690537,
+            "dc": 0.4797044315472364,
+            "pre_emph_mrstft_value": 0.003896261831737107,
+            "pre_emph_mrstft_coefficient": 0.786637033762011,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:09:59.978077",
+        "datetime_complete": "2025-02-18T17:10:13.161485"
+    },
+    {
+        "number": 95,
+        "value": 1.0146838426589966,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0029783517145494684,
+            "mse": 1.1154433862428328,
+            "esr": 0.5703226852536769,
+            "dc": 0.44796992351900033,
+            "pre_emph_mrstft_value": 0.0026703179481052278,
+            "pre_emph_mrstft_coefficient": 0.6304490239125361,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:10:13.181488",
+        "datetime_complete": "2025-02-18T17:10:26.359507"
+    },
+    {
+        "number": 96,
+        "value": 1.0006959438323975,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.4,
+            "learning_rate": 0.0008696308029086238,
+            "mse": 1.181758646276899,
+            "esr": 0.2746515844337312,
+            "dc": 0.7943391734975933,
+            "pre_emph_mrstft_value": 0.001838932642915773,
+            "pre_emph_mrstft_coefficient": 0.8539485475501118,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:10:26.377509",
+        "datetime_complete": "2025-02-18T17:10:39.563081"
+    },
+    {
+        "number": 97,
+        "value": 1.0121062596638997,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.003435798779038327,
+            "mse": 0.5702066720296499,
+            "esr": 0.6114506203026435,
+            "dc": 0.40750056356564945,
+            "pre_emph_mrstft_value": 0.006512432297879158,
+            "pre_emph_mrstft_coefficient": 0.5755962346154742,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:10:39.589080",
+        "datetime_complete": "2025-02-18T17:10:52.769303"
+    },
+    {
+        "number": 98,
+        "value": 1.0233317613601685,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00022659638451617045,
+            "mse": 1.6081844860965324,
+            "esr": 0.3314189457140937,
+            "dc": 0.3251957497635149,
+            "pre_emph_mrstft_value": 0.0059844042978060485,
+            "pre_emph_mrstft_coefficient": 0.812557201718292,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:10:52.791305",
+        "datetime_complete": "2025-02-18T17:11:05.959099"
+    },
+    {
+        "number": 99,
+        "value": 1.0005858739217122,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00434474818347916,
+            "mse": 1.5617133064683444,
+            "esr": 0.22423949367621793,
+            "dc": 0.8995984431991852,
+            "pre_emph_mrstft_value": 0.007475126054181962,
+            "pre_emph_mrstft_coefficient": 0.9505443107642109,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:11:05.981099",
+        "datetime_complete": "2025-02-18T17:11:19.156296"
+    },
+    {
+        "number": 100,
+        "value": 1.0018012523651123,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.001186984618404755,
+            "mse": 1.710604661558698,
+            "esr": 0.6564606654419449,
+            "dc": 0.2590778178878803,
+            "pre_emph_mrstft_value": 0.0070579302981092305,
+            "pre_emph_mrstft_coefficient": 0.6505841235527549,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:11:19.174299",
+        "datetime_complete": "2025-02-18T17:11:32.349650"
+    },
+    {
+        "number": 101,
+        "value": 0.9999130964279175,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0009508879038854707,
+            "mse": 1.5215828721459583,
+            "esr": 0.4884653886920566,
+            "dc": 0.3481951521504073,
+            "pre_emph_mrstft_value": 0.008720430855611593,
+            "pre_emph_mrstft_coefficient": 0.6072407321894421,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:11:32.368654",
+        "datetime_complete": "2025-02-18T17:11:45.549131"
+    },
+    {
+        "number": 102,
+        "value": 1.0104358593622844,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.001459750710277301,
+            "mse": 1.486905128205849,
+            "esr": 0.5456563825167828,
+            "dc": 0.365143641854463,
+            "pre_emph_mrstft_value": 0.009319860095540982,
+            "pre_emph_mrstft_coefficient": 0.6136371049614302,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:11:45.570129",
+        "datetime_complete": "2025-02-18T17:11:58.744500"
+    },
+    {
+        "number": 103,
+        "value": 1.0008232990900676,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0007378276263304706,
+            "mse": 1.6561874289737561,
+            "esr": 0.4606689419195585,
+            "dc": 0.30280285536419854,
+            "pre_emph_mrstft_value": 0.008578424744749681,
+            "pre_emph_mrstft_coefficient": 0.6052819833275194,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:11:58.772010",
+        "datetime_complete": "2025-02-18T17:12:11.947528"
+    },
+    {
+        "number": 104,
+        "value": 1.0006657838821411,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.1,
+            "learning_rate": 0.0010667539791260436,
+            "mse": 1.7404404826322022,
+            "esr": 0.43780211569226846,
+            "dc": 0.7105634473466385,
+            "pre_emph_mrstft_value": 0.0097425250102018,
+            "pre_emph_mrstft_coefficient": 0.5933400227379255,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:12:11.972038",
+        "datetime_complete": "2025-02-18T17:12:25.147714"
+    },
+    {
+        "number": 105,
+        "value": 0.9999250570933024,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.000988979421826559,
+            "mse": 1.80668027680889,
+            "esr": 0.4808103484979591,
+            "dc": 0.338619703265511,
+            "pre_emph_mrstft_value": 0.007765041373818232,
+            "pre_emph_mrstft_coefficient": 0.5621347754253958,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:12:25.177222",
+        "datetime_complete": "2025-02-18T17:12:38.384539"
+    },
+    {
+        "number": 106,
+        "value": 1.0324453910191853,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0009395003409007692,
+            "mse": 1.873652598269774,
+            "esr": 0.484053095050799,
+            "dc": 0.34111744191237103,
+            "pre_emph_mrstft_value": 0.00905787302579445,
+            "pre_emph_mrstft_coefficient": 0.5642972310883874,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:12:38.412047",
+        "datetime_complete": "2025-02-18T17:12:51.603504"
+    },
+    {
+        "number": 107,
+        "value": 1.0148340463638306,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0006631904919976069,
+            "mse": 1.8018581425127185,
+            "esr": 0.37393339680284376,
+            "dc": 0.22540781049458447,
+            "pre_emph_mrstft_value": 0.007789359559398728,
+            "pre_emph_mrstft_coefficient": 0.5839357215152454,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:12:51.631504",
+        "datetime_complete": "2025-02-18T17:13:04.824963"
+    },
+    {
+        "number": 108,
+        "value": 1.0093563000361125,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0008262925649988932,
+            "mse": 1.5049465011549508,
+            "esr": 0.5220154188173244,
+            "dc": 0.39067447761420043,
+            "pre_emph_mrstft_value": 0.008217638942609984,
+            "pre_emph_mrstft_coefficient": 0.5593740974662718,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:13:04.850962",
+        "datetime_complete": "2025-02-18T17:13:18.023969"
+    },
+    {
+        "number": 109,
+        "value": 1.0298431317011516,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0010149238399496151,
+            "mse": 1.8453005893052408,
+            "esr": 0.4118802299839114,
+            "dc": 0.2790604951481052,
+            "pre_emph_mrstft_value": 0.008785790105412103,
+            "pre_emph_mrstft_coefficient": 0.5759995605526304,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:13:18.048970",
+        "datetime_complete": "2025-02-18T17:13:31.229823"
+    },
+    {
+        "number": 110,
+        "value": 1.024312178293864,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0004965961763606457,
+            "mse": 1.634093777021651,
+            "esr": 0.29268533832239524,
+            "dc": 0.5467017431416645,
+            "pre_emph_mrstft_value": 0.007290164625018174,
+            "pre_emph_mrstft_coefficient": 0.531983365102094,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:13:31.256825",
+        "datetime_complete": "2025-02-18T17:13:44.435583"
+    },
+    {
+        "number": 111,
+        "value": 1.0058363278706868,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.001155617545761423,
+            "mse": 1.7703116103490733,
+            "esr": 0.44858852752159795,
+            "dc": 0.31633475465629596,
+            "pre_emph_mrstft_value": 0.007594592254324871,
+            "pre_emph_mrstft_coefficient": 0.7483122573098543,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:13:44.463584",
+        "datetime_complete": "2025-02-18T17:13:57.641542"
+    },
+    {
+        "number": 112,
+        "value": 1.0013578335444133,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0005915535048561352,
+            "mse": 1.5818791436327664,
+            "esr": 0.5055904691362516,
+            "dc": 0.35701539591659026,
+            "pre_emph_mrstft_value": 0.006690651328880515,
+            "pre_emph_mrstft_coefficient": 0.5960613902907499,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:13:57.666546",
+        "datetime_complete": "2025-02-18T17:14:10.843854"
+    },
+    {
+        "number": 113,
+        "value": 1.0200830698013306,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0009215537814637263,
+            "mse": 1.6933001229428635,
+            "esr": 0.5757973972475221,
+            "dc": 0.43046978052773144,
+            "pre_emph_mrstft_value": 0.007980177257221693,
+            "pre_emph_mrstft_coefficient": 0.7020872006337079,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:14:10.866853",
+        "datetime_complete": "2025-02-18T17:14:24.046087"
+    },
+    {
+        "number": 114,
+        "value": 1.007552941640218,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.007685413106573925,
+            "mse": 1.9122670560974078,
+            "esr": 0.47242673824035863,
+            "dc": 0.4467076860665471,
+            "pre_emph_mrstft_value": 0.009215112012710148,
+            "pre_emph_mrstft_coefficient": 0.5439174828248757,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:14:24.069090",
+        "datetime_complete": "2025-02-18T17:14:37.242462"
+    },
+    {
+        "number": 115,
+        "value": 1.0016781489054363,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0018598187427965433,
+            "mse": 1.5532373420211,
+            "esr": 0.15675053149303353,
+            "dc": 0.4028549294491529,
+            "pre_emph_mrstft_value": 0.005177939952640478,
+            "pre_emph_mrstft_coefficient": 0.6851608737524615,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:14:37.268462",
+        "datetime_complete": "2025-02-18T17:14:50.448690"
+    },
+    {
+        "number": 116,
+        "value": 1.0309882164001465,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0007201997764875715,
+            "mse": 0.8131649706959532,
+            "esr": 0.42895554809256103,
+            "dc": 0.3329163105244212,
+            "pre_emph_mrstft_value": 0.006987194442066466,
+            "pre_emph_mrstft_coefficient": 0.727111454211346,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:14:50.474691",
+        "datetime_complete": "2025-02-18T17:15:03.648379"
+    },
+    {
+        "number": 117,
+        "value": 1.0046776135762532,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0013898241880581376,
+            "mse": 1.8137863126399054,
+            "esr": 0.3949047565508078,
+            "dc": 0.5014316027810123,
+            "pre_emph_mrstft_value": 0.008714765506782277,
+            "pre_emph_mrstft_coefficient": 0.6190661349581935,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:15:03.673381",
+        "datetime_complete": "2025-02-18T17:15:16.850412"
+    },
+    {
+        "number": 118,
+        "value": 1.0063341458638508,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.005242109300548827,
+            "mse": 1.0357314667438893,
+            "esr": 0.5508246781208844,
+            "dc": 0.8191826707932536,
+            "pre_emph_mrstft_value": 0.008432805181128102,
+            "pre_emph_mrstft_coefficient": 0.6299400518108575,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:15:16.881413",
+        "datetime_complete": "2025-02-18T17:15:30.057605"
+    },
+    {
+        "number": 119,
+        "value": 1.0032824675242107,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00011704984934632763,
+            "mse": 1.2355965169986103,
+            "esr": 0.34217945981917597,
+            "dc": 0.7388147909061843,
+            "pre_emph_mrstft_value": 0.009530274129704091,
+            "pre_emph_mrstft_coefficient": 0.792313622625993,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:15:30.087606",
+        "datetime_complete": "2025-02-18T17:15:43.287450"
+    },
+    {
+        "number": 120,
+        "value": 1.011279026667277,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.00018534208905538743,
+            "mse": 1.6016179491913543,
+            "esr": 0.3214044015862375,
+            "dc": 0.1262850903983337,
+            "pre_emph_mrstft_value": 0.007421521526170648,
+            "pre_emph_mrstft_coefficient": 0.7386902964398333,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:15:43.312451",
+        "datetime_complete": "2025-02-18T17:15:56.490222"
+    },
+    {
+        "number": 121,
+        "value": 1.000722845395406,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0008442796092375214,
+            "mse": 1.522252144663288,
+            "esr": 0.488531558998048,
+            "dc": 0.35327069347221435,
+            "pre_emph_mrstft_value": 0.00881374995128256,
+            "pre_emph_mrstft_coefficient": 0.6099672900390828,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:15:56.519222",
+        "datetime_complete": "2025-02-18T17:16:09.696213"
+    },
+    {
+        "number": 122,
+        "value": 1.0021061102549236,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0009970754420144828,
+            "mse": 1.4160072172393372,
+            "esr": 0.528508728489361,
+            "dc": 0.3829267229593604,
+            "pre_emph_mrstft_value": 0.009074921519157673,
+            "pre_emph_mrstft_coefficient": 0.592976973755962,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:16:09.723213",
+        "datetime_complete": "2025-02-18T17:16:22.898324"
+    },
+    {
+        "number": 123,
+        "value": 1.0186886390050252,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.2,
+            "learning_rate": 0.0006293000242546459,
+            "mse": 1.5112632510181594,
+            "esr": 0.474912939513343,
+            "dc": 0.3397006645849113,
+            "pre_emph_mrstft_value": 0.008334512980854502,
+            "pre_emph_mrstft_coefficient": 0.6053240154244588,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:16:22.922325",
+        "datetime_complete": "2025-02-18T17:16:36.099098"
+    },
+    {
+        "number": 124,
+        "value": 1.0123068888982136,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.002276550027047159,
+            "mse": 1.4590919105687894,
+            "esr": 0.5984745158865595,
+            "dc": 0.3090959028612413,
+            "pre_emph_mrstft_value": 0.008092270683659624,
+            "pre_emph_mrstft_coefficient": 0.6420823419230756,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:16:36.125100",
+        "datetime_complete": "2025-02-18T17:16:49.302674"
+    },
+    {
+        "number": 125,
+        "value": 1.0281834602355957,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0008890829683724961,
+            "mse": 1.7232695002149063,
+            "esr": 0.24533477841198237,
+            "dc": 0.41507416639478284,
+            "pre_emph_mrstft_value": 0.006807809392749658,
+            "pre_emph_mrstft_coefficient": 0.8312951861657961,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:16:49.333675",
+        "datetime_complete": "2025-02-18T17:17:02.516751"
+    },
+    {
+        "number": 126,
+        "value": 1.0018696387608845,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0007928635418861854,
+            "mse": 1.635946821268327,
+            "esr": 0.5124501027123176,
+            "dc": 0.3704344476651992,
+            "pre_emph_mrstft_value": 0.003577325950681258,
+            "pre_emph_mrstft_coefficient": 0.6229758900132935,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:17:02.539751",
+        "datetime_complete": "2025-02-18T17:17:15.717694"
+    },
+    {
+        "number": 127,
+        "value": 1.0718064705530803,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00016681309450512655,
+            "mse": 1.6792911972310682,
+            "esr": 0.4536446278258651,
+            "dc": 0.28665520033680497,
+            "pre_emph_mrstft_value": 0.0071485110315324335,
+            "pre_emph_mrstft_coefficient": 0.6620023096726282,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:17:15.750699",
+        "datetime_complete": "2025-02-18T17:17:28.924992"
+    },
+    {
+        "number": 128,
+        "value": 1.0029648542404175,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 1,
+            "dropout": 0.4,
+            "learning_rate": 0.0028892429173036577,
+            "mse": 1.5720853875708238,
+            "esr": 0.4877829271377435,
+            "dc": 0.6913580978255502,
+            "pre_emph_mrstft_value": 0.008945128139860226,
+            "pre_emph_mrstft_coefficient": 0.7136663010353994,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:17:28.955998",
+        "datetime_complete": "2025-02-18T17:17:42.154885"
+    },
+    {
+        "number": 129,
+        "value": 1.037143588066101,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00033251417612155344,
+            "mse": 1.3730325193498067,
+            "esr": 0.2606380328165233,
+            "dc": 0.014769083605831845,
+            "pre_emph_mrstft_value": 0.0028475781359951343,
+            "pre_emph_mrstft_coefficient": 0.576952447582199,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:17:42.183416",
+        "datetime_complete": "2025-02-18T17:17:55.381276"
+    },
+    {
+        "number": 130,
+        "value": 1.007170597712199,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0004111164322574641,
+            "mse": 1.7819281603137562,
+            "esr": 0.4243548926040897,
+            "dc": 0.6096766783427008,
+            "pre_emph_mrstft_value": 0.00937608477095583,
+            "pre_emph_mrstft_coefficient": 0.8950556297300266,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:17:55.410280",
+        "datetime_complete": "2025-02-18T17:18:08.596910"
+    },
+    {
+        "number": 131,
+        "value": 1.024845560391744,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0004295910401671808,
+            "mse": 1.3487812818100782,
+            "esr": 0.4624904931309912,
+            "dc": 0.6258676867359014,
+            "pre_emph_mrstft_value": 0.008663660195512846,
+            "pre_emph_mrstft_coefficient": 0.6343111037738947,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:18:08.624417",
+        "datetime_complete": "2025-02-18T17:18:21.801475"
+    },
+    {
+        "number": 132,
+        "value": 1.0263875325520833,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00035544604556808743,
+            "mse": 1.2740648045769707,
+            "esr": 0.8744392942634367,
+            "dc": 0.4653527754346557,
+            "pre_emph_mrstft_value": 0.007895327734508429,
+            "pre_emph_mrstft_coefficient": 0.6084307503196476,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:18:21.829986",
+        "datetime_complete": "2025-02-18T17:18:35.009192"
+    },
+    {
+        "number": 133,
+        "value": 0.9999812245368958,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0005546174280979387,
+            "mse": 1.3254669031429203,
+            "esr": 0.49745125548881536,
+            "dc": 0.6474731114969765,
+            "pre_emph_mrstft_value": 0.008600130817889023,
+            "pre_emph_mrstft_coefficient": 0.6752866196706038,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:18:35.037702",
+        "datetime_complete": "2025-02-18T17:18:48.221156"
+    },
+    {
+        "number": 134,
+        "value": 1.012471357981364,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0007398177128038357,
+            "mse": 1.1824243087727284,
+            "esr": 0.5043003914985827,
+            "dc": 0.6418620342117265,
+            "pre_emph_mrstft_value": 0.009181412353700937,
+            "pre_emph_mrstft_coefficient": 0.6750782168079348,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:18:48.250670",
+        "datetime_complete": "2025-02-18T17:19:01.429706"
+    },
+    {
+        "number": 135,
+        "value": 1.0009160439173381,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0005609352215351629,
+            "mse": 1.5419105341786896,
+            "esr": 0.5444121618000813,
+            "dc": 0.7783244751793128,
+            "pre_emph_mrstft_value": 0.0076238037071371025,
+            "pre_emph_mrstft_coefficient": 0.6567100841299623,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:19:01.460214",
+        "datetime_complete": "2025-02-18T17:19:14.637076"
+    },
+    {
+        "number": 136,
+        "value": 1.0036436716715496,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.003524419000581663,
+            "mse": 1.4867686455977909,
+            "esr": 0.43981201822371935,
+            "dc": 0.7197303357805521,
+            "pre_emph_mrstft_value": 0.008902849108649259,
+            "pre_emph_mrstft_coefficient": 0.6913026190992733,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:19:14.669092",
+        "datetime_complete": "2025-02-18T17:19:27.842774"
+    },
+    {
+        "number": 137,
+        "value": 1.0065649350484211,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0006781280953806105,
+            "mse": 1.7452448268967373,
+            "esr": 0.514967461222554,
+            "dc": 0.7553471852394127,
+            "pre_emph_mrstft_value": 0.0021432037033173646,
+            "pre_emph_mrstft_coefficient": 0.9324556388151497,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:19:27.872780",
+        "datetime_complete": "2025-02-18T17:19:41.058610"
+    },
+    {
+        "number": 138,
+        "value": 1.02054762840271,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.00030282913356000595,
+            "mse": 1.6141994244108775,
+            "esr": 0.36453881860474663,
+            "dc": 0.5700431841831528,
+            "pre_emph_mrstft_value": 0.008589275924915925,
+            "pre_emph_mrstft_coefficient": 0.9848037009920728,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:19:41.086610",
+        "datetime_complete": "2025-02-18T17:19:54.257757"
+    },
+    {
+        "number": 139,
+        "value": 1.002402385075887,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0005005088548570848,
+            "mse": 1.3134965223246449,
+            "esr": 0.5626282770612817,
+            "dc": 0.8510240645126526,
+            "pre_emph_mrstft_value": 0.009841617850745152,
+            "pre_emph_mrstft_coefficient": 0.5894144679991945,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:19:54.286756",
+        "datetime_complete": "2025-02-18T17:20:07.459857"
+    },
+    {
+        "number": 140,
+        "value": 1.0012319485346477,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0012528625525148201,
+            "mse": 1.6549036908952846,
+            "esr": 0.40137648932201786,
+            "dc": 0.3863533008170071,
+            "pre_emph_mrstft_value": 0.008137373033072758,
+            "pre_emph_mrstft_coefficient": 0.6830189095310429,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:20:07.484857",
+        "datetime_complete": "2025-02-18T17:20:20.662537"
+    },
+    {
+        "number": 141,
+        "value": 1.0010558366775513,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00047393597374549996,
+            "mse": 1.4370415111724215,
+            "esr": 0.4789200582362094,
+            "dc": 0.6403251688773309,
+            "pre_emph_mrstft_value": 0.008774534716328962,
+            "pre_emph_mrstft_coefficient": 0.625051475397436,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:20:20.692539",
+        "datetime_complete": "2025-02-18T17:20:33.874002"
+    },
+    {
+        "number": 142,
+        "value": 1.0581600268681843,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0003870095466621902,
+            "mse": 1.331707069291359,
+            "esr": 0.45348650613187413,
+            "dc": 0.5796087523197118,
+            "pre_emph_mrstft_value": 0.008496251263171602,
+            "pre_emph_mrstft_coefficient": 0.6693851640536504,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:20:33.906003",
+        "datetime_complete": "2025-02-18T17:20:47.075607"
+    },
+    {
+        "number": 143,
+        "value": 1.0088142951329548,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0006147642483038939,
+            "mse": 1.2630247374901502,
+            "esr": 0.30672276374487584,
+            "dc": 0.692402417478505,
+            "pre_emph_mrstft_value": 0.009236714539750005,
+            "pre_emph_mrstft_coefficient": 0.8620742034293082,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:20:47.104608",
+        "datetime_complete": "2025-02-18T17:21:00.285951"
+    },
+    {
+        "number": 144,
+        "value": 1.0060250759124756,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.0016758105831124167,
+            "mse": 1.1976340307560414,
+            "esr": 0.534283422391904,
+            "dc": 0.6676490910782247,
+            "pre_emph_mrstft_value": 0.00465475282670454,
+            "pre_emph_mrstft_coefficient": 0.6526299823257286,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:21:00.314955",
+        "datetime_complete": "2025-02-18T17:21:13.494162"
+    },
+    {
+        "number": 145,
+        "value": 1.0041931470235188,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.4,
+            "learning_rate": 0.00044828367293037955,
+            "mse": 1.3851935111023725,
+            "esr": 0.4951136559284271,
+            "dc": 0.324407916984936,
+            "pre_emph_mrstft_value": 0.0073674350913304635,
+            "pre_emph_mrstft_coefficient": 0.612785419141609,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:21:13.530162",
+        "datetime_complete": "2025-02-18T17:21:26.703124"
+    },
+    {
+        "number": 146,
+        "value": 1.0357234875361125,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.4,
+            "learning_rate": 0.0009559717567763028,
+            "mse": 1.1321024259234662,
+            "esr": 0.2073417248625917,
+            "dc": 0.3544692128059859,
+            "pre_emph_mrstft_value": 0.0065537256077588734,
+            "pre_emph_mrstft_coefficient": 0.7582890333992175,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:21:26.741125",
+        "datetime_complete": "2025-02-18T17:21:39.916553"
+    },
+    {
+        "number": 147,
+        "value": 1.0017119646072388,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.000561896412951838,
+            "mse": 1.7131828821599877,
+            "esr": 0.41591955119155394,
+            "dc": 0.6262306110769701,
+            "pre_emph_mrstft_value": 0.0031802888919520472,
+            "pre_emph_mrstft_coefficient": 0.5665694402006198,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:21:39.948552",
+        "datetime_complete": "2025-02-18T17:21:53.116103"
+    },
+    {
+        "number": 148,
+        "value": 0.9998530348141988,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.0007723873359591573,
+            "mse": 1.8262474817772703,
+            "esr": 0.38441975083214464,
+            "dc": 0.8003519539769148,
+            "pre_emph_mrstft_value": 0.00951408689707798,
+            "pre_emph_mrstft_coefficient": 0.6026352050974652,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:21:53.154103",
+        "datetime_complete": "2025-02-18T17:22:06.329054"
+    },
+    {
+        "number": 149,
+        "value": 1.0100772778193157,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 1,
+            "dropout": 0.0,
+            "learning_rate": 0.0007858265817508932,
+            "mse": 1.885592204238122,
+            "esr": 0.3903555037123321,
+            "dc": 0.8006390281880436,
+            "pre_emph_mrstft_value": 0.009692363736448025,
+            "pre_emph_mrstft_coefficient": 0.5988158501520715,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:22:06.358054",
+        "datetime_complete": "2025-02-18T17:22:19.532162"
+    },
+    {
+        "number": 150,
+        "value": 1.0056575139363606,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.001095391240014699,
+            "mse": 1.8274549745714885,
+            "esr": 0.37049623066092874,
+            "dc": 0.8314349492035503,
+            "pre_emph_mrstft_value": 0.009419168240518085,
+            "pre_emph_mrstft_coefficient": 0.5547787540465133,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:22:19.564164",
+        "datetime_complete": "2025-02-18T17:22:32.734523"
+    },
+    {
+        "number": 151,
+        "value": 1.020835280418396,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.0006785608527315657,
+            "mse": 1.790318798714417,
+            "esr": 0.4366170516866461,
+            "dc": 0.5391399248203483,
+            "pre_emph_mrstft_value": 0.007012781324891191,
+            "pre_emph_mrstft_coefficient": 0.6210595550806592,
+            "mask_first": 0
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:22:32.771526",
+        "datetime_complete": "2025-02-18T17:22:45.976973"
+    },
+    {
+        "number": 152,
+        "value": 1.00018314520518,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0009033070783605661,
+            "mse": 1.7539117469187806,
+            "esr": 0.46562865835372336,
+            "dc": 0.7300296902229848,
+            "pre_emph_mrstft_value": 0.00901573434365749,
+            "pre_emph_mrstft_coefficient": 0.5816937174067155,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:22:46.095140",
+        "datetime_complete": "2025-02-18T17:22:59.281440"
+    },
+    {
+        "number": 153,
+        "value": 0.9998795390129089,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.000873679833293098,
+            "mse": 1.7586769402596296,
+            "esr": 0.2864605008425402,
+            "dc": 0.7502384036184617,
+            "pre_emph_mrstft_value": 0.00912562224607459,
+            "pre_emph_mrstft_coefficient": 0.5867466665308803,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:22:59.312442",
+        "datetime_complete": "2025-02-18T17:23:12.507568"
+    },
+    {
+        "number": 154,
+        "value": 1.0045818487803142,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0008810826203904356,
+            "mse": 1.8475852411926847,
+            "esr": 0.2741679649758722,
+            "dc": 0.7414055811558432,
+            "pre_emph_mrstft_value": 0.009148746890237366,
+            "pre_emph_mrstft_coefficient": 0.5820092289787024,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:23:12.547080",
+        "datetime_complete": "2025-02-18T17:23:25.722124"
+    },
+    {
+        "number": 155,
+        "value": 1.0030051072438557,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0009875067200299126,
+            "mse": 1.7552292360462112,
+            "esr": 0.2881453015885482,
+            "dc": 0.7701522836969644,
+            "pre_emph_mrstft_value": 0.005602135960832095,
+            "pre_emph_mrstft_coefficient": 0.5940393003904765,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:23:25.759268",
+        "datetime_complete": "2025-02-18T17:23:38.931665"
+    },
+    {
+        "number": 156,
+        "value": 0.9999633034070333,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0007618790758710397,
+            "mse": 1.75454250263207,
+            "esr": 0.34116981781379463,
+            "dc": 0.7202139317110191,
+            "pre_emph_mrstft_value": 0.009574199930905148,
+            "pre_emph_mrstft_coefficient": 0.568918248908977,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:23:38.972670",
+        "datetime_complete": "2025-02-18T17:23:52.151927"
+    },
+    {
+        "number": 157,
+        "value": 1.000011146068573,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0007533134340257396,
+            "mse": 1.6912198546494865,
+            "esr": 0.3397381143569461,
+            "dc": 0.7267745982137751,
+            "pre_emph_mrstft_value": 0.009557187891562378,
+            "pre_emph_mrstft_coefficient": 0.5547551105098322,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:23:52.188931",
+        "datetime_complete": "2025-02-18T17:24:05.364223"
+    },
+    {
+        "number": 158,
+        "value": 1.016219695409139,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0007466673455718228,
+            "mse": 1.8060397198949427,
+            "esr": 0.3238709316222992,
+            "dc": 0.7212335788689698,
+            "pre_emph_mrstft_value": 0.009622076275114164,
+            "pre_emph_mrstft_coefficient": 0.5473838617429898,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:24:05.392225",
+        "datetime_complete": "2025-02-18T17:24:18.575799"
+    },
+    {
+        "number": 159,
+        "value": 1.0261534055074055,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0008336839760802016,
+            "mse": 1.6990208489856407,
+            "esr": 0.3500493964737595,
+            "dc": 0.7058467003128148,
+            "pre_emph_mrstft_value": 0.009474925521726846,
+            "pre_emph_mrstft_coefficient": 0.5393626964750419,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:24:18.616801",
+        "datetime_complete": "2025-02-18T17:24:31.795789"
+    },
+    {
+        "number": 160,
+        "value": 1.024129827817281,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0011318113602719253,
+            "mse": 1.76191241529516,
+            "esr": 0.22527289102674097,
+            "dc": 0.7557301599259896,
+            "pre_emph_mrstft_value": 0.009059189715629577,
+            "pre_emph_mrstft_coefficient": 0.5701981379013378,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:24:31.825789",
+        "datetime_complete": "2025-02-18T17:24:45.001867"
+    },
+    {
+        "number": 161,
+        "value": 1.0365023215611775,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0007575739773783543,
+            "mse": 1.6774118808061234,
+            "esr": 0.3095348159472613,
+            "dc": 0.794527294382094,
+            "pre_emph_mrstft_value": 0.009905458494704408,
+            "pre_emph_mrstft_coefficient": 0.5668672975468142,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:24:45.037867",
+        "datetime_complete": "2025-02-18T17:24:58.213164"
+    },
+    {
+        "number": 162,
+        "value": 1.0008150736490886,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0006575266960115103,
+            "mse": 1.7287176261977244,
+            "esr": 0.3531104533948741,
+            "dc": 0.732717542943015,
+            "pre_emph_mrstft_value": 0.009310432711321193,
+            "pre_emph_mrstft_coefficient": 0.5230242850367454,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:24:58.242165",
+        "datetime_complete": "2025-02-18T17:25:11.419688"
+    },
+    {
+        "number": 163,
+        "value": 1.0293558438618977,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0009304177079557941,
+            "mse": 1.8652128676977062,
+            "esr": 0.26342592957415234,
+            "dc": 0.6796025540722864,
+            "pre_emph_mrstft_value": 0.00971683534338267,
+            "pre_emph_mrstft_coefficient": 0.5856470401173521,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:25:11.457689",
+        "datetime_complete": "2025-02-18T17:25:24.636954"
+    },
+    {
+        "number": 164,
+        "value": 1.0011231104532878,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0010200190790373173,
+            "mse": 1.7727364280713416,
+            "esr": 0.33130121128371487,
+            "dc": 0.8102785406872004,
+            "pre_emph_mrstft_value": 0.00948886140341404,
+            "pre_emph_mrstft_coefficient": 0.5611947571462158,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:25:24.680472",
+        "datetime_complete": "2025-02-18T17:25:37.859146"
+    },
+    {
+        "number": 165,
+        "value": 1.0220531225204468,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.000824509470773336,
+            "mse": 1.742571119581396,
+            "esr": 0.29552812673514767,
+            "dc": 0.7820331753726515,
+            "pre_emph_mrstft_value": 0.008951750373457754,
+            "pre_emph_mrstft_coefficient": 0.5732971209519656,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:25:37.900658",
+        "datetime_complete": "2025-02-18T17:25:51.084124"
+    },
+    {
+        "number": 166,
+        "value": 1.0013710260391235,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.0007324475445108088,
+            "mse": 1.8242008704327823,
+            "esr": 0.3820990245476113,
+            "dc": 0.668296811556226,
+            "pre_emph_mrstft_value": 0.009979028472641255,
+            "pre_emph_mrstft_coefficient": 0.5799887397589808,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:25:51.133123",
+        "datetime_complete": "2025-02-18T17:26:04.322357"
+    },
+    {
+        "number": 167,
+        "value": 1.0097317695617676,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0006016157758204306,
+            "mse": 1.634893700103516,
+            "esr": 0.33878766092222695,
+            "dc": 0.7020236051452834,
+            "pre_emph_mrstft_value": 0.009231179683158577,
+            "pre_emph_mrstft_coefficient": 0.5552652977772017,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:26:04.356358",
+        "datetime_complete": "2025-02-18T17:26:17.530829"
+    },
+    {
+        "number": 168,
+        "value": 1.0226257642110188,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0002670595630626386,
+            "mse": 1.714021581791474,
+            "esr": 0.280299790129551,
+            "dc": 0.7492081460375695,
+            "pre_emph_mrstft_value": 0.00721325198793047,
+            "pre_emph_mrstft_coefficient": 0.5986171838264703,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:26:17.565832",
+        "datetime_complete": "2025-02-18T17:26:30.730529"
+    },
+    {
+        "number": 169,
+        "value": 1.033022363980611,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.2,
+            "learning_rate": 0.0009187190695507013,
+            "mse": 1.6721829442489309,
+            "esr": 0.4090431960205225,
+            "dc": 0.7693930102112604,
+            "pre_emph_mrstft_value": 0.00953127921831394,
+            "pre_emph_mrstft_coefficient": 0.5867406510378981,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:26:30.770531",
+        "datetime_complete": "2025-02-18T17:26:43.941782"
+    },
+    {
+        "number": 170,
+        "value": 1.0113012393315632,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.00069913624702032,
+            "mse": 1.5849843555289418,
+            "esr": 0.2423637702303633,
+            "dc": 0.8730567565321963,
+            "pre_emph_mrstft_value": 0.00025493492809164353,
+            "pre_emph_mrstft_coefficient": 0.6059924099229225,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:26:43.983786",
+        "datetime_complete": "2025-02-18T17:26:57.150606"
+    },
+    {
+        "number": 171,
+        "value": 1.030297875404358,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0008149937117829582,
+            "mse": 1.79108947230232,
+            "esr": 0.3087981910802124,
+            "dc": 0.726184393321831,
+            "pre_emph_mrstft_value": 0.008983824908862752,
+            "pre_emph_mrstft_coefficient": 0.7034955875934151,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:26:57.194114",
+        "datetime_complete": "2025-02-18T17:27:10.360479"
+    },
+    {
+        "number": 172,
+        "value": 1.0050723950068157,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0008886379517641347,
+            "mse": 1.6996536807402987,
+            "esr": 0.3754511595084145,
+            "dc": 0.8378390086921348,
+            "pre_emph_mrstft_value": 0.006874364094702027,
+            "pre_emph_mrstft_coefficient": 0.57559247270529,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:27:10.401995",
+        "datetime_complete": "2025-02-18T17:27:23.570608"
+    },
+    {
+        "number": 173,
+        "value": 1.5688934326171875,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.00014765153298337374,
+            "mse": 1.7491139461863758,
+            "esr": 0.5218102894433447,
+            "dc": 0.7018518998166463,
+            "pre_emph_mrstft_value": 0.009370711977165774,
+            "pre_emph_mrstft_coefficient": 0.5350300705358856,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:27:23.612121",
+        "datetime_complete": "2025-02-18T17:27:36.778464"
+    },
+    {
+        "number": 174,
+        "value": 1.023798664410909,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.0010464320485618483,
+            "mse": 1.6066107981419133,
+            "esr": 0.3502585904646335,
+            "dc": 0.6586493596376508,
+            "pre_emph_mrstft_value": 0.006331187851221749,
+            "pre_emph_mrstft_coefficient": 0.8211041139064211,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:27:36.813488",
+        "datetime_complete": "2025-02-18T17:27:49.998507"
+    },
+    {
+        "number": 175,
+        "value": 1.012229045232137,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.0,
+            "learning_rate": 0.00020601860553540562,
+            "mse": 1.5558432109248612,
+            "esr": 0.4663125560208674,
+            "dc": 0.37490437273134386,
+            "pre_emph_mrstft_value": 0.008787622276893201,
+            "pre_emph_mrstft_coefficient": 0.6015829012000838,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:27:50.036584",
+        "datetime_complete": "2025-02-18T17:28:03.225719"
+    },
+    {
+        "number": 176,
+        "value": 1.0098188718159993,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0027605796585835852,
+            "mse": 1.6517798809601676,
+            "esr": 0.7157349756227283,
+            "dc": 0.7898005295801624,
+            "pre_emph_mrstft_value": 0.009750809704958377,
+            "pre_emph_mrstft_coefficient": 0.5901322673403251,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:28:03.264725",
+        "datetime_complete": "2025-02-18T17:28:16.435771"
+    },
+    {
+        "number": 177,
+        "value": 1.000347375869751,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0025440495240658654,
+            "mse": 1.7974319731626582,
+            "esr": 0.7909299525995289,
+            "dc": 0.7487923021320654,
+            "pre_emph_mrstft_value": 0.007534104843118885,
+            "pre_emph_mrstft_coefficient": 0.6948000235657394,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:28:16.476276",
+        "datetime_complete": "2025-02-18T17:28:29.638925"
+    },
+    {
+        "number": 178,
+        "value": 1.002598524093628,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.1,
+            "learning_rate": 0.004094334159144912,
+            "mse": 1.9344456922592999,
+            "esr": 0.02518905724335374,
+            "dc": 0.8112816253612319,
+            "pre_emph_mrstft_value": 0.009087637849472974,
+            "pre_emph_mrstft_coefficient": 0.801538859757109,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:28:29.680438",
+        "datetime_complete": "2025-02-18T17:28:42.851514"
+    },
+    {
+        "number": 179,
+        "value": 0.9996445576349894,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0031804149669190504,
+            "mse": 1.0910282078352227,
+            "esr": 0.4961486128091283,
+            "dc": 0.4370645859591931,
+            "pre_emph_mrstft_value": 0.008393637571369652,
+            "pre_emph_mrstft_coefficient": 0.7179108893917485,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:28:42.890025",
+        "datetime_complete": "2025-02-18T17:28:56.061519"
+    },
+    {
+        "number": 180,
+        "value": 1.013184905052185,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0032630658955317277,
+            "mse": 1.835203412046682,
+            "esr": 0.47837481403558296,
+            "dc": 0.4169275852383068,
+            "pre_emph_mrstft_value": 0.00834720830406562,
+            "pre_emph_mrstft_coefficient": 0.7287550770512563,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:28:56.105031",
+        "datetime_complete": "2025-02-18T17:29:09.280694"
+    },
+    {
+        "number": 181,
+        "value": 1.004343032836914,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0023818291582949676,
+            "mse": 1.0932550549518842,
+            "esr": 0.5036283358703725,
+            "dc": 0.43942470651962434,
+            "pre_emph_mrstft_value": 0.00787661999161872,
+            "pre_emph_mrstft_coefficient": 0.7366847826872197,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:29:09.320203",
+        "datetime_complete": "2025-02-18T17:29:22.496887"
+    },
+    {
+        "number": 182,
+        "value": 1.0009759267171223,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0031993932203969277,
+            "mse": 1.7241383927509433,
+            "esr": 0.5344190801521811,
+            "dc": 0.33927708489825953,
+            "pre_emph_mrstft_value": 0.008806460166161325,
+            "pre_emph_mrstft_coefficient": 0.680361219470359,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:29:22.533886",
+        "datetime_complete": "2025-02-18T17:29:35.713300"
+    },
+    {
+        "number": 183,
+        "value": 1.0106202363967896,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0035909968116048475,
+            "mse": 1.0968446155972273,
+            "esr": 0.4971330960280014,
+            "dc": 0.7307288365716782,
+            "pre_emph_mrstft_value": 0.003635540124839855,
+            "pre_emph_mrstft_coefficient": 0.7120288683305929,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:29:35.748300",
+        "datetime_complete": "2025-02-18T17:29:48.916979"
+    },
+    {
+        "number": 184,
+        "value": 1.0117931763331096,
+        "params": {
+            "lstm_hidden": 16,
+            "num_layers": 1,
+            "dropout": 0.5,
+            "learning_rate": 0.004403818317763752,
+            "mse": 1.768159623445136,
+            "esr": 0.9291457134617622,
+            "dc": 0.3657512600392293,
+            "pre_emph_mrstft_value": 0.008663270892493937,
+            "pre_emph_mrstft_coefficient": 0.7169738556604989,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:29:48.958982",
+        "datetime_complete": "2025-02-18T17:30:02.135318"
+    },
+    {
+        "number": 185,
+        "value": 1.0132156213124592,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0006479232905258045,
+            "mse": 1.684531843770025,
+            "esr": 0.4352905602099657,
+            "dc": 0.422741248476925,
+            "pre_emph_mrstft_value": 0.00859335848638503,
+            "pre_emph_mrstft_coefficient": 0.9675666804276609,
+            "mask_first": 5120
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:30:02.178319",
+        "datetime_complete": "2025-02-18T17:30:15.341522"
+    },
+    {
+        "number": 186,
+        "value": 1.0279633204142253,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.5,
+            "learning_rate": 0.0008000086788206508,
+            "mse": 1.0290932597307691,
+            "esr": 0.457505571605127,
+            "dc": 0.39308861540865175,
+            "pre_emph_mrstft_value": 0.00822616308285481,
+            "pre_emph_mrstft_coefficient": 0.5590758261136085,
+            "mask_first": 6144
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:30:15.387527",
+        "datetime_complete": "2025-02-18T17:30:28.550204"
+    },
+    {
+        "number": 187,
+        "value": 1.0002955198287964,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.002129998718618593,
+            "mse": 1.5354922077231807,
+            "esr": 0.3223373511441371,
+            "dc": 0.4078926768438992,
+            "pre_emph_mrstft_value": 0.004121070223081344,
+            "pre_emph_mrstft_coefficient": 0.7490415100963176,
+            "mask_first": 1024
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:30:28.589205",
+        "datetime_complete": "2025-02-18T17:30:41.758409"
+    },
+    {
+        "number": 188,
+        "value": 1.0022467374801636,
+        "params": {
+            "lstm_hidden": 32,
+            "num_layers": 2,
+            "dropout": 0.30000000000000004,
+            "learning_rate": 0.0005338001003648624,
+            "mse": 1.6191044142772677,
+            "esr": 0.55786938794464,
+            "dc": 0.4869331402895734,
+            "pre_emph_mrstft_value": 0.0066887211445160865,
+            "pre_emph_mrstft_coefficient": 0.6974033481655937,
+            "mask_first": 4096
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:30:41.799410",
+        "datetime_complete": "2025-02-18T17:30:54.964677"
+    },
+    {
+        "number": 189,
+        "value": 1.035422404607137,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.0007373967568284137,
+            "mse": 1.1326960646793347,
+            "esr": 0.39833039958630023,
+            "dc": 0.6903777110708245,
+            "pre_emph_mrstft_value": 0.0028007600253958415,
+            "pre_emph_mrstft_coefficient": 0.7728580446898669,
+            "mask_first": 7168
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:30:55.001680",
+        "datetime_complete": "2025-02-18T17:31:08.163634"
+    },
+    {
+        "number": 190,
+        "value": 1.0001253286997478,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0012232449480637517,
+            "mse": 1.8117065267060415,
+            "esr": 0.25913507082730763,
+            "dc": 0.7137817052503839,
+            "pre_emph_mrstft_value": 0.009205056013325814,
+            "pre_emph_mrstft_coefficient": 0.7630491753876272,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:31:08.206634",
+        "datetime_complete": "2025-02-18T17:31:21.374405"
+    },
+    {
+        "number": 191,
+        "value": 1.023786981900533,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0012121419670231834,
+            "mse": 1.1638867055731037,
+            "esr": 0.24802849631260662,
+            "dc": 0.7118902319090922,
+            "pre_emph_mrstft_value": 0.009075231249096772,
+            "pre_emph_mrstft_coefficient": 0.7678692603174648,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:31:21.416409",
+        "datetime_complete": "2025-02-18T17:31:34.581900"
+    },
+    {
+        "number": 192,
+        "value": 1.0047450462977092,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.005627852905008171,
+            "mse": 1.7747133135437934,
+            "esr": 0.26017464613430186,
+            "dc": 0.7580655803992717,
+            "pre_emph_mrstft_value": 0.009351406569631356,
+            "pre_emph_mrstft_coefficient": 0.7602007014248996,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:31:34.623904",
+        "datetime_complete": "2025-02-18T17:31:47.793326"
+    },
+    {
+        "number": 193,
+        "value": 1.0193819999694824,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0009612412693570131,
+            "mse": 0.9660558021698866,
+            "esr": 0.2913843325700085,
+            "dc": 0.73205857688949,
+            "pre_emph_mrstft_value": 0.009217950658615625,
+            "pre_emph_mrstft_coefficient": 0.778486602959988,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:31:47.836840",
+        "datetime_complete": "2025-02-18T17:32:01.008987"
+    },
+    {
+        "number": 194,
+        "value": 1.0006256500879924,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.003866375974792686,
+            "mse": 1.8282354480962235,
+            "esr": 0.2339378658262171,
+            "dc": 0.388795246379255,
+            "pre_emph_mrstft_value": 0.008485498631760992,
+            "pre_emph_mrstft_coefficient": 0.6675210367749704,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:32:01.054499",
+        "datetime_complete": "2025-02-18T17:32:14.223687"
+    },
+    {
+        "number": 195,
+        "value": 1.0017884572347004,
+        "params": {
+            "lstm_hidden": 48,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0008296022966653129,
+            "mse": 1.7986579625941754,
+            "esr": 0.2736003804356025,
+            "dc": 0.6830647548280812,
+            "pre_emph_mrstft_value": 0.008866786908956207,
+            "pre_emph_mrstft_coefficient": 0.7240245822706806,
+            "mask_first": 2048
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:32:14.263201",
+        "datetime_complete": "2025-02-18T17:32:27.430067"
+    },
+    {
+        "number": 196,
+        "value": 0.999486525853475,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0030213293031026824,
+            "mse": 1.7465762563810039,
+            "esr": 0.36514234142393676,
+            "dc": 0.7729584156712583,
+            "pre_emph_mrstft_value": 0.009585738717364716,
+            "pre_emph_mrstft_coefficient": 0.7852292266349151,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:32:27.473577",
+        "datetime_complete": "2025-02-18T17:32:40.648132"
+    },
+    {
+        "number": 197,
+        "value": 0.9998648762702942,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.003066106371868155,
+            "mse": 1.8650074698462478,
+            "esr": 0.36248418226450196,
+            "dc": 0.7801777257740075,
+            "pre_emph_mrstft_value": 0.0096462875087439,
+            "pre_emph_mrstft_coefficient": 0.7833894638772683,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:32:40.691133",
+        "datetime_complete": "2025-02-18T17:32:53.864779"
+    },
+    {
+        "number": 198,
+        "value": 1.0157619714736938,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.002981082314331559,
+            "mse": 1.8926054878569978,
+            "esr": 0.3693428447705732,
+            "dc": 0.7773773078681703,
+            "pre_emph_mrstft_value": 0.009630285288903483,
+            "pre_emph_mrstft_coefficient": 0.7516094787586435,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:32:53.910781",
+        "datetime_complete": "2025-02-18T17:33:07.149130"
+    },
+    {
+        "number": 199,
+        "value": 1.0164741277694702,
+        "params": {
+            "lstm_hidden": 64,
+            "num_layers": 2,
+            "dropout": 0.0,
+            "learning_rate": 0.0030722982606368725,
+            "mse": 1.8530094514710274,
+            "esr": 0.3389230642594004,
+            "dc": 0.7633360859754185,
+            "pre_emph_mrstft_value": 0.009496644415499578,
+            "pre_emph_mrstft_coefficient": 0.7922109383694551,
+            "mask_first": 3072
+        },
+        "state": "COMPLETE",
+        "datetime_start": "2025-02-18T17:33:07.189129",
+        "datetime_complete": "2025-02-18T17:33:20.361530"
+    }
+]
