@@ -136,3 +136,6 @@ cython_debug/
 
 # TensorBoard
 logs/
+
+# HTML files
+*.html
